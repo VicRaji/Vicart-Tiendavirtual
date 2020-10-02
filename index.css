@@ -1,0 +1,32 @@
+.h3{
+    text-align: center;
+    color: #FFB200;
+    font-family: Lucida Console;
+    font-size: 100px;
+    font-weight: bold;
+}
+.textc{
+    font-weight: bold;
+    color: black;
+}
+
+.footer{
+    background-color: #565456;
+}
+.textfo{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+.main{
+    background-color: #565456;
+}
+.title{
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
